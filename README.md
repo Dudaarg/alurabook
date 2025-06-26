@@ -3,6 +3,8 @@
 
 <h2>Acesso ao Projeto</h2>
 
+https://dudaarg.github.io/alurabook/
+
 
 <h2>Tecnologias utilizadas</h2>
 <p>HTML e CSS.</p>
