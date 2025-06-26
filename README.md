@@ -1,4 +1,4 @@
-<h1>AluraPlus</h1>
+<h1>AluraBooks</h1>
 <p>Projeto realizado com o intuito de aprendizado sobre responsividade em CSS.</p>
 
 <h2>Acesso ao Projeto</h2>
