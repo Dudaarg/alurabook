@@ -5,6 +5,7 @@
 
 https://dudaarg.github.io/alurabook/
 
+https://alurabook-eight-tau.vercel.app/
 
 <h2>Tecnologias utilizadas</h2>
 <p>HTML e CSS.</p>
