@@ -1,5 +1,5 @@
 <h1>AluraPlus</h1>
-<p>Projeto realizado com o intuito de aprendizado sobre Front-End.</p>
+<p>Projeto realizado com o intuito de aprendizado sobre responsividade em CSS.</p>
 
 <h2>Acesso ao Projeto</h2>
 
